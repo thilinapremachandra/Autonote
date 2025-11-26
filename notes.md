@@ -1,0 +1,2 @@
+- **262627-11-26 23:17**: Meeting with ML team, discuss dataset bias
+- **262651-11-26 23:18**: Project proposal refine
