@@ -17,7 +17,6 @@ It is designed for fast idea capture without switching context or opening heavy 
 ## 🚀 Usage
 Add a note using a single command:
 
-```bash
 autonote "Meeting with ML team, discuss project proposal"
 
 # 📝 AutoNote
@@ -75,7 +74,7 @@ Run it:
 
 sudo mv autonote /usr/local/bin/
 
-##📄 Output Example (notes.md)
+## 📄 Output Example (notes.md)
  
 - **2025-11-26 23:10**: Meeting with ML team, discuss dataset bias
 - **2025-11-26 23:25**: Prepare slides for proposal presentation
